@@ -1,0 +1,22 @@
+.project-wrapper {
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    border-radius: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.project-title {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.project-description {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}

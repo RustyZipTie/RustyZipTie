@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Template",
+        "description": "A template project",
+        "image": "./image_url.png",
+        "links": {
+            "github": "https://github.com/rustyzipte",
+            "npm": "https://www.npmjs.com/package/rustyzipte"
+        },
+        "main_link": "github",
+        "visible": false,
+        "featured": false,
+        "type": "code"
+    },
+    {
+        "title": "Objective rendering",
+        "description": "A lightweight and flexible javascript library that facilitates interacting with the DOM using javascript objects",
+        "image": "./images/random_img.png",
+        "links": {
+            "github": "https://github.com/RustyZipTie/ObjectiveRendering",
+            "npm": "https://www.npmjs.com/package/objective-rendering"
+        },
+        "main_link": "npm",
+        "visible": true,
+        "featured": true,
+        "type": "code"
+    }
+]
