@@ -15,7 +15,7 @@
     {
         "title": "Objective rendering",
         "description": "A lightweight and flexible javascript library that facilitates interacting with the DOM using javascript objects",
-        "image": "./images/random_img.png",
+        "image": "./images/drawer_triple.png",
         "links": {
             "github": "https://github.com/RustyZipTie/ObjectiveRendering",
             "npm": "https://www.npmjs.com/package/objective-rendering"

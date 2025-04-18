@@ -12,7 +12,15 @@ async function fetchProjects() {
 const main = async () => {
     const projects = await fetchProjects();
     const myDoc = [
-        project(projects[1])
+        {
+            type: "div",
+            className: "project-container",
+            children: [
+                project(projects[1], 'medium'),
+                // project(projects[1], 'small'), 
+            ] 
+        }
+
     ]
     render(myDoc, document.body)
 }
